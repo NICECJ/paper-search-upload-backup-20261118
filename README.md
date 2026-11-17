@@ -30,9 +30,9 @@
 | 小组 | 负责人（每组两人） | 负责会议 / 期刊 | 提交分支 |
 | --- | --- | --- | --- |
 | 第 1 组 | 林正立、刘弘毅 | ICLR；KDD；Nature；Nature Methods | `group1` |
-| 第 2 组 | 高宇豪、朱晓楠 | 待填写 | `group2` |
-| 第 3 组 | 游文韬、吴龙涛 | 待填写 | `group3` |
-| 第 4 组 | 廖晨希、蔡瑞翔 | 待填写 | `group4` |
+| 第 2 组 | 高宇豪、朱晓楠 | ICML；Nature Catalysis；Nature Chemical Biology；Cell Systems | `group2` |
+| 第 3 组 | 游文韬、吴龙涛 | IJCAI；CoRL；RECOMB；ISMB | `group3` |
+| 第 4 组 | 廖晨希、蔡瑞翔 | Nature Chemistry；Chem；ACS Central Science；Nature Synthesis | `group4` |
 | 第 5 组 | 陈思铭、黄传鑫 | Nature Material；NeurIPS；Science；Nature Machine Intelligence | `group5` |
 | 第 6 组 | 刘锋、陈静 | Nature Communication；Nature Genetics；Nature Medicine；Nature Biomedical Engineering | `group6` |
 | 第 7 组 | 江鑫、王凌睿 | AAAI；Nature Computational Science；Nature Biotechnology；Bioinformatics | `group7` |
