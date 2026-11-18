@@ -37,6 +37,9 @@
 | 第 6 组 | 刘锋、陈静 | Nature Communication；Nature Genetics；Nature Medicine；Nature Biomedical Engineering | `group6` |
 | 第 7 组 | 江鑫、王凌睿 | AAAI；Nature Computational Science；Nature Biotechnology；Bioinformatics | `group7` |
 | 第 8 组 | 张锦泓、林烨 | MICCAI；IEEE TNNLS；TPAMI；Cell | `group8` |
+| 第 9 组 | 陆奔恺、张宇晨 | JACS；Angew | `group9` |
+| 第 10 组 | 陈梓衡、施博文 | Chemical Science；Advanced Materials；npj Computational Materials | `group10` |
+
 
 ### 交付要求
 
